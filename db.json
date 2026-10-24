@@ -1,0 +1,126 @@
+[
+  {
+    "id": "51fa09e5-926c-42ba-b5cf-8d714ca660ae",
+    "titulo": "falta",
+    "prioridad": "Baja",
+    "descripcion": "falta dia 1",
+    "fecha": "2026-10-17T15:10:37.108Z",
+    "synced": true
+  },
+  {
+    "id": "22acb130-b454-4c40-9c21-8a2d342d5144",
+    "titulo": "fuga",
+    "prioridad": "Media",
+    "descripcion": "dssfgdf",
+    "fecha": "2026-10-17T15:30:14.451Z",
+    "synced": true
+  },
+  {
+    "id": "2c031de1-a7e7-466c-a9ab-423316a7e33f",
+    "titulo": "fgf",
+    "prioridad": "Baja",
+    "descripcion": "fgfh",
+    "fecha": "2026-10-17T15:34:36.050Z",
+    "synced": true
+  },
+  {
+    "id": "ec18b331-0de7-4d20-9e05-5cffbf88f20a",
+    "titulo": "fuga",
+    "prioridad": "Baja",
+    "descripcion": "df",
+    "fecha": "2026-10-17T15:38:25.070Z",
+    "synced": true
+  },
+  {
+    "id": "651a38bf-4514-4f11-aa81-8396fa2664a8",
+    "titulo": "fuga de agua",
+    "prioridad": "Baja",
+    "descripcion": "tubo",
+    "fecha": "2026-10-17T15:40:11.819Z",
+    "synced": true
+  },
+  {
+    "id": "082b6180-46d8-446d-99d0-e6393fa7c1f1",
+    "titulo": "tubo",
+    "prioridad": "Media",
+    "descripcion": "dfgh",
+    "fecha": "2026-10-17T15:46:19.888Z",
+    "updated": "2026-10-17T15:46:19.888Z",
+    "synced": true
+  },
+  {
+    "id": "55e3799a-515b-47ae-8fb9-95c1e474ff48",
+    "titulo": "Incendio",
+    "prioridad": "Alta",
+    "descripcion": "En mi casa pipi",
+    "fecha": "2026-10-17T15:48:38.951Z",
+    "updated": "2026-10-17T16:03:51.548Z",
+    "synced": true
+  },
+  {
+    "id": "d05a6939-19f9-40f8-9ce0-85c80ae29097",
+    "titulo": "fo",
+    "prioridad": "Media",
+    "descripcion": "si",
+    "fecha": "2026-10-17T15:49:07.435Z",
+    "updated": "2026-10-17T16:10:19.824Z",
+    "synced": true
+  },
+  {
+    "id": "2ed03883-3aac-4189-9bbf-e4f0d0cf0c05",
+    "titulo": "Fuga de agua en el pasillo B",
+    "prioridad": "Media",
+    "descripcion": "Edificio B, planta baja, junto a los sanitarios",
+    "fecha": "2026-10-24T15:22:26.148Z",
+    "updated": "2026-10-24T15:22:26.148Z",
+    "synced": true,
+    "ubicacion": {
+      "lat": 19.2833,
+      "lng": -99.5167,
+      "precision": 25,
+      "ts": "2026-10-24T15:22:15.162Z"
+    }
+  },
+  {
+    "id": "1e928490-b29e-4822-9183-17f8c7856673",
+    "titulo": "Cortocircuito en laboratorio 3",
+    "prioridad": "Alta",
+    "descripcion": "",
+    "fecha": "2026-10-24T15:22:38.630Z",
+    "updated": "2026-10-24T15:22:38.630Z",
+    "synced": true
+  },
+  {
+    "id": "3686b659-28f9-4074-9862-b11374619e09",
+    "titulo": "Incidencia sin ubicación",
+    "prioridad": "Baja",
+    "descripcion": "",
+    "fecha": "2026-10-24T15:22:57.194Z",
+    "updated": "2026-10-24T15:22:57.194Z",
+    "synced": true
+  },
+  {
+    "id": "3eb71acd-a98e-423c-9c88-7c9594a3e8f6",
+    "titulo": "Fuga de gas",
+    "prioridad": "Alta",
+    "descripcion": "",
+    "fecha": "2026-10-24T15:33:48.796Z",
+    "updated": "2026-10-24T15:33:48.796Z",
+    "synced": true,
+    "ubicacion": {
+      "lat": 19.339938,
+      "lng": -99.47542,
+      "precision": 74,
+      "ts": "2026-10-24T15:33:04.661Z"
+    }
+  },
+  {
+    "id": "b4efb311-2374-4c77-9fc8-e5b1ea01c29c",
+    "titulo": "Corte de luz",
+    "prioridad": "Media",
+    "descripcion": "",
+    "fecha": "2026-10-24T15:34:42.382Z",
+    "updated": "2026-10-24T15:40:09.531Z",
+    "synced": true
+  }
+]

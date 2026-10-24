@@ -1,0 +1,9 @@
+{
+  "name": "pwa-incidencias",
+  "version": "2.0.0",
+  "description": "PWA de registro de incidencias con Service Worker, notificaciones, geolocalización y push",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "web-push": "^3.6.7" }
+}

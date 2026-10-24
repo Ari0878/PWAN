@@ -1,0 +1,27 @@
+{
+  "name": "Registro de Incidencias",
+  "short_name": "Incidencias",
+  "description": "Reporta, guarda y sincroniza incidencias del campus.",
+  "lang": "es",
+  "dir": "ltr",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#0F0E1A",
+  "theme_color": "#0F0E1A",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Nueva incidencia", "short_name": "Nueva", "url": "./index.html#new", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] },
+    { "name": "Historial", "short_name": "Historial", "url": "./index.html#list", "icons": [{ "src": "icon-192.png", "sizes": "192x192" }] }
+  ]
+}
